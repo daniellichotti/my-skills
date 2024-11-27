@@ -1,26 +1,35 @@
-# Getting Started
+# Petshop-App
 
-## Step 1: Start the Metro Server
+Uma aplicação React Native para apresentação de skills.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## Funcionalidades
+- Cadastro, listagem, edição e exclusão de tratamentos.
+- Interface amigável com foco na temática de Pet Shops.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## Pré-requisitos
+- Node.js
+- Android Studio
 
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
+## Instalação
+1. Clone o repositório: 
+  ```
+  https://github.com/daniellichotti/my-skills/edit/main/README.md
+  ```
+2. Instale as dependências:
+   ```
+   npm install
+   ```
+3. Rode o Metro Server:
+  ```
+  # using npm
+  npm start
+  
+  # OR using Yarn
+  yarn start
+  ```
+4. Rode a sua aplicação:
 ### For Android
-
-```bash
+```
 # using npm
 npm run android
 
@@ -29,7 +38,6 @@ yarn android
 ```
 
 ### For iOS
-
 ```bash
 # using npm
 npm run ios
@@ -38,8 +46,13 @@ npm run ios
 yarn ios
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+Se tudo foi feito corretamente ja sera possivel ver a aplicacao rodando no emulador.
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+5. Tecnologias
+React Native
 
-## Congratulations! :tada:
+6. Contribuição
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
+
+7. Licença
+Este projeto está licenciado sob a Licença MIT.
