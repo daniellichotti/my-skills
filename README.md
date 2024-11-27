@@ -1,4 +1,4 @@
-# Petshop-App
+# My-Skills
 
 Uma aplicação React Native para apresentação de skills.
 
