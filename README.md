@@ -1,10 +1,10 @@
 # My-Skills
 
-Uma aplicação React Native para apresentação de skills.
+Uma aplicação React Native para apresentação de skills onde inserimos a skill em um input, e ao apertar o botao para adicionar, a skill sera adicionada a uma lista e exibida abaixo, caso queira deleta-la, basta apertar na skill e ira ser deletada automaticamente.
 
 ## Funcionalidades
-- Cadastro, listagem, edição e exclusão de tratamentos.
-- Interface amigável com foco na temática de Pet Shops.
+- Cadastro, listagem, e exclusão de skills.
+- Interface amigável.
 
 ## Pré-requisitos
 - Node.js
