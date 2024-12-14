@@ -48,11 +48,11 @@ yarn ios
 
 Se tudo foi feito corretamente ja sera possivel ver a aplicacao rodando no emulador.
 
-5. Tecnologias
+## Tecnologias
 React Native
 
-6. Contribuição
+## Contribuição
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
-7. Licença
-Este projeto está licenciado sob a Licença MIT.
+## Licença
+- 
